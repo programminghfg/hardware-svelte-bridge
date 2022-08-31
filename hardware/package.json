@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "serialport": "^10.4.0",
+    "ws": "^8.8.1"
+  },
+  	"type": "module"
+}
