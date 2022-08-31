@@ -1,2 +1,3 @@
 # custom-webplayer
-A webplayer built with Svelte, using the Spotify API and hardware interactions via johnny-five &amp; Arduino.
+
+A webplayer built with Svelte, using the Spotify API and hardware interactions via serialport, websockets &amp; Arduino.
