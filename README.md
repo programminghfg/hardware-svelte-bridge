@@ -1,3 +1,3 @@
-# custom-webplayer
+#  hardware-svelte-bridge
 
-A webplayer built with Svelte, using the Spotify API and hardware interactions via serialport, websockets &amp; Arduino.
+A hardware-web bridge, built with Svelte, using hardware interactions via serialport, websockets &amp; Arduino.
